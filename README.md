@@ -15,7 +15,6 @@
 * **Easter Egg:** Fitur kejutan tersembunyi berupa animasi khusus yang muncul sebagai respons interaktif ketika pengguna menekan objek tertentu di dalam ruangan (seperti awan tersenyum yang bergerak di kamar tidur atau bebek kuning yang memercikkan air di kolam taman) untuk meningkatkan keterlibatan dan antusiasme belajar anak.
 * **Kuis Pilihan Ganda Interaktif:** Modul kuis evaluasi yang terdiri dari 3 butir soal pilihan ganda (opsi jawaban A dan B) untuk menguji wawasan siswa kelas B dengan cara yang seru dan menyenangkan, sekaligus menyegarkan pikiran di sela-sela aktivitas hafalan doa harian.
 
-
 ## Lingkungan Pengembangan
 * **Game Engine:** Unity Engine
 * **Bahasa Pemrograman:** C# (C-Sharp)
